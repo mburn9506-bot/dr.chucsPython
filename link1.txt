@@ -1,2 +1,0 @@
-"Pharmacy text" refers to a service that uses 
-text messages to communicate with patients 
