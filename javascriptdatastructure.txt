@@ -1,0 +1,33 @@
+In JavaScript, data structures are ways to store, 
+organize, and manage data efficiently.
+ JavaScript provides built-in data structures 
+ and also allows custom ones using objects 
+ and classes.
+🔹 Primitive Data Types
+
+These store single values:
+Number – let x = 10;
+String – let name = "Alex";
+Boolean – true / false
+Undefined – declared but not assigned
+Null – intentional empty value
+Symbol – unique identifiers
+BigInt – large integers
+
+🔹 Non-Primitive (Reference) Data Structures
+1️⃣ Array
+
+Used to store ordered collections.
+let fruits = ["Apple", "Banana", "Mango"];
+fruits.push("Orange");
+Common methods: push(), pop(), map(), filter(), reduce()
+============================
+Object
+
+Stores key–value pairs.
+
+let user = {
+  name: "John",
+  age: 25,
+  isAdmin: true
+};
